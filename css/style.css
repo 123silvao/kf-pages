@@ -857,5 +857,8 @@ section {
   .about .row .content h3 {
     font-size: 2.5rem;
   }
+ img{
+  height: 35rem;
+ }
 }
 /*# sourceMappingURL=style.css.map */
